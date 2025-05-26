@@ -1,8 +1,3 @@
-//
-//Radhika Agrawal
-//CS110 - HW1 titled 'Calling the Plumber'
-//
-
 #include <iostream>
 #include <iomanip>
 
