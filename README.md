@@ -1,2 +1,2 @@
-# plumber-bill
+# plumber-invoice
 This program calculates the total bill for a plumbing job by taking user input for trip fee, hourly rate, materials cost, and number of hours worked. It includes sales tax (8%) and formats the result into a neatly spaced invoice. The program also asks for the company name and billing address and displays all details in a structured format with correct decimal precision. All monetary amounts are displayed with two decimal places, and the invoice is aligned using formatted output for clarity.
